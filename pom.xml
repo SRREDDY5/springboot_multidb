@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.app.multidb</groupId>
-	<artifactId>MultiDB</artifactId>
+	<artifactId>springboot_multidb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MultiDB</name>
+	<name>springboot_multidb</name>
 	<description>Demo project for Spring Boot with multiple dbs</description>
 	<url />
 	<licenses>
